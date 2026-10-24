@@ -3,7 +3,7 @@
 ## Lista de tareas
 
 ### Funcionalidades del juego
-- [ ] Seleccionar una palabra aleatoria desde un archivo aparte
+- [x] Seleccionar una palabra aleatoria desde un archivo aparte
 - [ ] Mostrar la palabra oculta con guiones bajos (`_`)
 - [ ] Pedir una letra por consola
 - [ ] Validar que la entrada tenga exactamente una letra
@@ -21,7 +21,8 @@
 - [ ] Manejar entradas inesperadas sin que el programa falle
 
 ### Estructura y documentación
-- [ ] Crear `main.py`, `words.py` y `hangman_art.py`, importados desde `main.py`
+- [x] Crear `words.py` con la lista de palabras y la selección aleatoria
+- [ ] Crear `main.py` y `hangman_art.py`, importados desde `main.py`
 - [ ] Crear README con nombre, correo y forma de ejecutar el programa
 - [ ] Repositorio público en GitHub
 - [ ] Historial de commits progresivo
