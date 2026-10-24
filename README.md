@@ -4,21 +4,21 @@
 
 ### Funcionalidades del juego
 - [x] Seleccionar una palabra aleatoria desde un archivo aparte
-- [ ] Mostrar la palabra oculta con guiones bajos (`_`)
-- [ ] Pedir una letra por consola
-- [ ] Validar que la entrada tenga exactamente una letra
-- [ ] Validar que la letra esté entre A y Z
-- [ ] Rechazar letras ya utilizadas
-- [ ] Revelar todas las posiciones de una letra correcta
-- [ ] Descontar una vida por cada letra incorrecta
-- [ ] Iniciar con 6 vidas
-- [ ] Crear 6 dibujos del ahorcado con caracteres de texto
-- [ ] Mostrar contador de vidas y dibujo tras cada error
-- [ ] Mostrar derrota, último dibujo y palabra correcta al perder
-- [ ] Mostrar mensaje de victoria al adivinar la palabra
-- [ ] Preguntar si se quiere jugar de nuevo o salir
-- [ ] Reiniciar palabra, letras, vidas y dibujo en cada partida
-- [ ] Manejar entradas inesperadas sin que el programa falle
+- [x] Mostrar la palabra oculta con guiones bajos (`_`)
+- [x] Pedir una letra por consola
+- [x] Validar que la entrada tenga exactamente una letra
+- [x] Validar que la letra esté entre A y Z
+- [x] Rechazar letras ya utilizadas
+- [x] Revelar todas las posiciones de una letra correcta
+- [x] Descontar una vida por cada letra incorrecta
+- [x] Iniciar con 6 vidas
+- [x] Crear 6 dibujos del ahorcado con caracteres de texto
+- [x] Mostrar contador de vidas y dibujo tras cada error
+- [x] Mostrar derrota, último dibujo y palabra correcta al perder
+- [x] Mostrar mensaje de victoria al adivinar la palabra
+- [x] Preguntar si se quiere jugar de nuevo o salir
+- [x] Reiniciar palabra, letras, vidas y dibujo en cada partida
+- [x] Manejar entradas inesperadas sin que el programa falle
 
 ### Estructura y documentación
 - [x] Crear `words.py` con la lista de palabras y la selección aleatoria
