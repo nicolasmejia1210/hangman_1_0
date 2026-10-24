@@ -34,8 +34,8 @@ Juego del ahorcado en consola, desarrollado en Python.
 > Este README se actualizará a medida que se completen las tareas.
 
 ## Estudiante
-- **Nombre:** [NICOLAS ANDRES MEJIA RESTREPO]
-- **Correo:** [nicolas.mejia2@utp.edu.co]
+- **Nombre:** Nicolas Andres Mejia Restrepo
+- **Correo:** nicolas.mejia2@utp.edu.co
 
 ## Cómo ejecutar
 *(Se completará al terminar el juego.)*
