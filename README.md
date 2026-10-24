@@ -22,11 +22,11 @@
 
 ### Estructura y documentación
 - [x] Crear `words.py` con la lista de palabras y la selección aleatoria
-- [ ] Crear `main.py` y `hangman_art.py`, importados desde `main.py`
-- [ ] Crear README con nombre, correo y forma de ejecutar el programa
-- [ ] Repositorio público en GitHub
-- [ ] Historial de commits progresivo
-- [ ] Enlace entregado en Classroom
+- [x] Crear `main.py` y `hangman_art.py`, importados desde `main.py`
+- [x] Crear README con nombre, correo y forma de ejecutar el programa
+- [x] Repositorio público en GitHub
+- [x] Historial de commits progresivo
+- [x] Enlace entregado en Classroom
 
 ## Descripción
 Juego del ahorcado en consola, desarrollado en Python.
